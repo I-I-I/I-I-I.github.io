@@ -5,7 +5,7 @@
       {
         "appID": "V577MLBEAG.auto.ria",
         "paths": [
-          "*"
+          "/auto_?", "/advanced-search/*"
         ]
       }
     ]
